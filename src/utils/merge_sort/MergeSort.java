@@ -1,4 +1,4 @@
-package utils;
+package utils.merge_sort;
 
 import java.io.File;
 import java.io.IOException;
